@@ -6,7 +6,7 @@ module.exports = {
   subHeading:
     "We're bringing the Ethereum community to Barcelona! This website allows anyone to add and update their side event happening around ETHBarcelona conference & hackathon.",
   calendarHeading: "July 2023",
-  submitEventLink: "https://gmevents.typeform.com/amsterdam",
+  submitEventLink: "https://bit.ly/ETHBCNSideEvents",
   startDate: {
     day: 3,
     month: 7,
