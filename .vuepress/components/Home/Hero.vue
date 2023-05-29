@@ -72,6 +72,7 @@ export default {
     text-align center
     max-width 85rem
     margin-bottom 2rem
+    margin-top 1rem
 
   &_button
     padding-top 3rem
