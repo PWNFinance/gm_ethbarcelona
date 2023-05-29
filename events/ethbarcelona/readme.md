@@ -50,7 +50,7 @@ name: ETHBarcelona
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Hackathon & Conference gathering of the the best builders from the 5th until 9th of July 2023, in Barcelona.
-  - The conference will happen between July 5-7th and the hackathon between July 7-9th.
+  - The conference will happen between July 5-7th and the hackathon between July 7-9th. The venue TBA.
   - Exploring how Blockchain Technology can help build a sustainable world full of Human Potential.
 
 # The date should be in the format year-month-day (ISO 8601).
