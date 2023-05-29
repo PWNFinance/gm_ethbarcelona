@@ -2,7 +2,7 @@ module.exports = {
   base: "/",
   title: "Barcelona GM Events",
   heading: "GM Barcelona 2023",
-  dateSubheading: ". 3. - 9. July 2023",
+  dateSubheading: "3. - 9. July 2023",
   subHeading:
     "We're bringing the Ethereum community to Barcelona! This website allows anyone to add and update their side event happening around ETHBarcelona conference & hackathon.",
   calendarHeading: "July 2023",
@@ -65,8 +65,8 @@ module.exports = {
         link: "/calendar/",
       },
       {
-        text: "ETHDam",
-        link: "https://www.ethdam.com/",
+        text: "ETHBarcelona",
+        link: "https://www.ethbarcelona.com/",
       },
     ],
     logo: "logo_gm_events.svg",
