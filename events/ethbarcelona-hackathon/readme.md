@@ -33,7 +33,7 @@ title: ETHBarcelona Hackathon
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: A hackathon of the the best builders from the 7th until 9th of July 2023, in Barcelona.
+description: A hackathon from the 7th until 9th of July 2023, in Barcelona.
 
 
 #####################
@@ -49,7 +49,7 @@ name: ETHBarcelona Hackathon
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - A hackathon of the the best builders from the 7th until 9th of July 2023, in Barcelona.
+  - A hackathon from the 7th until 9th of July 2023, in Barcelona.
   - The venue TBA.
   - Exploring how Blockchain Technology can help build a sustainable world full of Human Potential.
 
