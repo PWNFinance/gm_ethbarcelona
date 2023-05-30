@@ -28,12 +28,12 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: ETHBarcelona
+title: ETHBarcelona Conference
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Hackathon & Conference gathering of the the best builders from the 5th until 9th of July 2023, in Barcelona.
+description: Conference gathering of the the best builders from the 5th until 7th of July 2023, in Barcelona.
 
 
 #####################
@@ -41,7 +41,7 @@ description: Hackathon & Conference gathering of the the best builders from the 
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: ETHBarcelona
+name: ETHBarcelona Conference
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -49,8 +49,8 @@ name: ETHBarcelona
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Hackathon & Conference gathering of the the best builders from the 5th until 9th of July 2023, in Barcelona.
-  - The conference will happen between July 5-7th and the hackathon between July 7-9th. The venue TBA.
+  - Conference gathering of the the best builders from the 5th until 7th of July 2023, in Barcelona.
+  - The venue TBA.
   - Exploring how Blockchain Technology can help build a sustainable world full of Human Potential.
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -58,7 +58,7 @@ synopsis:
 date: 2023-07-05
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2023-07-09
+endDate: 2023-07-07
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
