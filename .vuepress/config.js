@@ -31,7 +31,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "ETHBarcelona.png", // only if banner layout
+  bannerPath: "ETHBarcelona2.jpg", // only if banner layout
   venues: [
     {
       name: "Paralelni Polis",
