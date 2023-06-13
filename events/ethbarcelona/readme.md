@@ -35,7 +35,6 @@ title: ETHBarcelona Conference
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: A gathering of the the best builders from the 5th until 7th of July 2023, in Barcelona.
 
-
 #####################
 ### EVENT DETAILS ###
 #####################
@@ -50,8 +49,8 @@ name: ETHBarcelona Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - A gathering of the the best builders from the 5th until 7th of July 2023, in Barcelona.
-  - The venue TBA.
   - Exploring how Blockchain Technology can help build a sustainable world full of Human Potential.
+  - The venue is Big C, Carrer de Llull, 121, 08005 Barcelona.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -68,18 +67,18 @@ time: '09:00'
 endTime: '18:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://www.ethbarcelona.com/
+tickets: https://tickets.ethbarcelona.com/mint
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: €420
+price: €499
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA
+venue: Big C
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: TBA
+address: Carrer de Llull, 121, 08005 Barcelona
 
 # The category of the event. Valid options:
 # - conference
