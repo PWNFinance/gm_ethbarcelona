@@ -33,7 +33,7 @@ title: Regens on a boat
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: ​All aboard! 🛳️ NEAReFi is hosting the most unique mixer of the year, right on a boat, setting sail for ReFi on NEAR. �
+description: ​All aboard! 🛳️ NEAReFi is hosting the most unique mixer of the year, right on a boat, setting sail for ReFi on NEAR.
 
 
 #####################
