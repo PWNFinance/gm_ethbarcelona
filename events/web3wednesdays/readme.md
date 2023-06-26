@@ -53,10 +53,10 @@ synopsis:
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2023-07-06
+date: 2023-07-05
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2023-07-06
+endDate: 2023-07-05
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
