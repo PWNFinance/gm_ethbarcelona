@@ -28,19 +28,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Feeding Financial Freedom: Refi and DeFi at ETH Barcelona's Workshop Web 3 Dinner Series
+title: Feeding Financial Freedom - Refi and DeFi at ETH Barcelona's Workshop Web 3 Dinner Series
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Experience the Refi Farm-Table Dinner Series in Barcelona, Spain, merging sustainable finance with culinary excellence. Powered by the NEAR Foundation, Celo Organization, and Unstoppable Domains. 
+description: Experience the Refi FarmTable Dinner Series in Barcelona, Spain, merging sustainable finance with culinary excellence. Powered by the NEAR Foundation, Celo Organization, and Unstoppable Domains. 
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Feeding Financial Freedom: Refi and DeFi at ETH Barcelona's Workshop Web 3 Dinner Series
+name: Feeding Financial Freedom - Refi and DeFi at ETH Barcelona's Workshop Web 3 Dinner Series
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,8 +48,8 @@ name: Feeding Financial Freedom: Refi and DeFi at ETH Barcelona's Workshop Web 3
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Experience the Refi Farm-Table Dinner Series in Barcelona, Spain, merging sustainable finance with culinary excellence. Powered by the NEAR Foundation, Celo Organization, and Unstoppable Domains.
-  - Enjoy a farm-to-table dining experience with locally sourced ingredients. Engage with expert presentations on sustainable finance and panel discussions on the intersection of finance, agriculture, and sustainability. Immerse yourself in an intimate setting, fostering meaningful conversations.
+  - Experience the Refi FarmTable Dinner Series in Barcelona, Spain, merging sustainable finance with culinary excellence. Powered by the NEAR Foundation, Celo Organization, and Unstoppable Domains.
+  - Enjoy a farm to table dining experience with locally sourced ingredients. Engage with expert presentations on sustainable finance and panel discussions on the intersection of finance, agriculture, and sustainability. Immerse yourself in an intimate setting, fostering meaningful conversations.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
