@@ -50,6 +50,7 @@ name: Aleo zkHaus - zkTapas y Tazas
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Join us for a casual gathering where you can enjoy a drink, some food, and stimulating conversation about all things zk!
+  - Join our Discord at aleo.org/discord
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
