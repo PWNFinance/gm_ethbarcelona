@@ -66,7 +66,7 @@ time: '11:00'
 endTime: '12:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://docs.google.com/forms/d/e/1FAIpQLSffVu1rAsRcCDZ5_nZMhFbtyn1GGcakdCvk9AcAQ4_WUpkolQ/viewform
+tickets: https://www.eventbrite.com/e/survive-the-metaspace-with-krav-maga-lessons-tickets-670194007317
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
