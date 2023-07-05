@@ -33,7 +33,7 @@ title: Liquidity Pool Party by XDC
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: 2 hours open bar and nibbles, pool access, games, by invitation only.
+description: Don’t miss out our amazing Pool Party hosted by Prime Numbers & XDC Network at Puro Beach, Hilton Diagonal Mar Barcelona, post-ETH event.
 
 #####################
 ### EVENT DETAILS ###
@@ -48,7 +48,10 @@ name: Liquidity Pool Party by XDC
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - 2 hours open bar and nibbles, pool access, games, by invitation only.
+  - Don’t miss out our amazing Pool Party hosted by Prime Numbers & XDC Network at Puro Beach, Hilton Diagonal Mar Barcelona, post-ETH event.
+  - Enjoy complimentary drinks & bites from 6-8pm on Thursday 6th and network with industry leaders! ETHBarcelona.
+  - This exclusive event is limited to 100 guests. To secure your invitation fill up https://kkie1ntp5sa.typeform.com/to/NEC5IdUF or visit the XDC booth.
+  - We've planned exciting activities including a 360 Photo booth, Dice Game with plenty of prizes, and gifts galore!
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
