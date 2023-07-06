@@ -33,7 +33,7 @@ title: Near ReFi Beach Clean Up
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Beach clean up
+description: Join us this Saturday at Barceloneta Beach for a rewarding and impactful beach cleanup event! We are inviting all environmentally conscious individuals to come together and make a difference in our local community.
 
 
 #####################
@@ -49,7 +49,7 @@ name: Near ReFi Beach Clean Up
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Beach clean up
+  - Join us this Saturday at Barceloneta Beach for a rewarding and impactful beach cleanup event! We are inviting all environmentally conscious individuals to come together and make a difference in our local community.
   - Meet at the Espigó del Gas
 
 # The date should be in the format year-month-day (ISO 8601).
