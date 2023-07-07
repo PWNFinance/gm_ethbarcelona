@@ -48,7 +48,13 @@ name: Official ETHBarcelona Closing Party
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Official ETHBarcelona Closing Party
+  - Official ETHBarcelona Closing Party.
+  - Schedule 👇🏼
+  - 21h30 - 23h00 DJ DESERT
+  - 23h00 - 00H30 DJ Blockravers b2b
+  - 12h30 - 02h00 DJ Danilo Gallo
+  - 02h30 - 04h00 DJ Kyle
+  - 04h00 - 05h00 DJ Phycticio
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -60,9 +66,9 @@ endDate: 2023-07-10
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '22:00'
+time: '21:30'
 # Time when the event ends. Can be left empty.
-endTime: '06:00'
+endTime: '05:00'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://ethbarcelona.com
